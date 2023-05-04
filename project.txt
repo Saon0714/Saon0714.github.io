@@ -1,0 +1,11 @@
+project : 
+
+Data Analysis and viualization 
+-- Best Playing 11
+
+
+Machine learning : 
+-- Credit Card Approval Prediction
+-- Salary Prediction
+-- Book Recommender System
+-- Program type prediction 
